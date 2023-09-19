@@ -11,6 +11,7 @@
 		6EE6FDD32AB892D1004E59DE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE6FDD22AB892D1004E59DE /* ContentView.swift */; };
 		6EE6FDD52AB892D3004E59DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EE6FDD42AB892D3004E59DE /* Assets.xcassets */; };
 		6EE6FDD82AB892D3004E59DE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EE6FDD72AB892D3004E59DE /* Preview Assets.xcassets */; };
+		6EE6FDDF2AB897CB004E59DE /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE6FDDE2AB897CB004E59DE /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		6EE6FDD22AB892D1004E59DE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6EE6FDD42AB892D3004E59DE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EE6FDD72AB892D3004E59DE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6EE6FDDE2AB897CB004E59DE /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				6EE6FDD02AB892D1004E59DE /* MusicQuizzApp.swift */,
 				6EE6FDD22AB892D1004E59DE /* ContentView.swift */,
+				6EE6FDDE2AB897CB004E59DE /* HomeView.swift */,
 				6EE6FDD42AB892D3004E59DE /* Assets.xcassets */,
 				6EE6FDD62AB892D3004E59DE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EE6FDDF2AB897CB004E59DE /* HomeView.swift in Sources */,
 				6EE6FDD32AB892D1004E59DE /* ContentView.swift in Sources */,
 				6EE6FDD12AB892D1004E59DE /* MusicQuizzApp.swift in Sources */,
 			);
